@@ -1,3 +1,7 @@
+## git && git submodule
+* add: git submoudle add <url> kernel
+* delete: git rm --cached kernel
+
 ## 主要任务
 0.0.1:
     系统调用，用户模式的相关code全部理解
