@@ -1,6 +1,7 @@
 ## git && git submodule
 * add: git submoudle add <url> kernel
 * delete: git rm --cached kernel
+(? git submodule 参考的是submodule 的index, 对于submodule的唯一记录就是这个参考(index) )
 
 ## 主要任务
 0.0.1:
